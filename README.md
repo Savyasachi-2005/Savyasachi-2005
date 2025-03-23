@@ -17,46 +17,6 @@
 
 ## 🛠️ Tech Stack & Skills
 
-### **💻 Programming Languages**
-<p align="center">
-  <a href="https://docs.oracle.com/javase/tutorial/"><img src="https://skillicons.dev/icons?i=java" alt="Java" title="Java"/></a>
-  <a href="https://docs.python.org/3/"><img src="https://skillicons.dev/icons?i=python" alt="Python" title="Python"/></a>
-  <a href="https://en.cppreference.com/w/c"><img src="https://skillicons.dev/icons?i=c" alt="C" title="C"/></a>
-  <a href="https://en.cppreference.com/w/"><img src="https://skillicons.dev/icons?i=cpp" alt="C++" title="C++"/></a>
-  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript"><img src="https://skillicons.dev/icons?i=js" alt="JavaScript" title="JavaScript"/></a>
-</p>
-
-### **🌐 Web Development**
-<p align="center">
-  <a href="https://developer.mozilla.org/en-US/docs/Web/HTML"><img src="https://skillicons.dev/icons?i=html" alt="HTML" title="HTML"/></a>
-  <a href="https://developer.mozilla.org/en-US/docs/Web/CSS"><img src="https://skillicons.dev/icons?i=css" alt="CSS" title="CSS"/></a>
-  <a href="https://nodejs.org/en/docs/"><img src="https://skillicons.dev/icons?i=nodejs" alt="Node.js" title="Node.js"/></a>
-  <a href="https://expressjs.com/"><img src="https://skillicons.dev/icons?i=express" alt="Express.js" title="Express.js"/></a>
-  <a href="https://reactjs.org/"><img src="https://skillicons.dev/icons?i=react" alt="React" title="React"/></a>
-</p>
-
-### **🗄️ Databases**
-<p align="center">
-  <a href="https://docs.mongodb.com/"><img src="https://skillicons.dev/icons?i=mongodb" alt="MongoDB" title="MongoDB"/></a>
-  <a href="https://dev.mysql.com/doc/"><img src="https://skillicons.dev/icons?i=mysql" alt="MySQL" title="MySQL"/></a>
-</p>
-
-### **🤖 AI/ML**
-<p align="center">
-  <a href="https://www.tensorflow.org/learn"><img src="https://skillicons.dev/icons?i=tensorflow" alt="TensorFlow" title="TensorFlow"/></a>
-  <a href="https://pytorch.org/"><img src="https://skillicons.dev/icons?i=pytorch" alt="PyTorch" title="PyTorch"/></a>
-  <a href="https://scikit-learn.org/"><img src="https://skillicons.dev/icons?i=sklearn" alt="scikit-learn" title="scikit-learn"/></a>
-</p>
-
-### **🔧 Tools & Platforms**
-<p align="center">
-  <a href="https://git-scm.com/"><img src="https://skillicons.dev/icons?i=git" alt="Git" title="Git"/></a>
-  <a href="https://github.com/"><img src="https://skillicons.dev/icons?i=github" alt="GitHub" title="GitHub"/></a>
-  <a href="https://code.visualstudio.com/"><img src="https://skillicons.dev/icons?i=vscode" alt="VS Code" title="VS Code"/></a>
-  <a href="https://www.docker.com/"><img src="https://skillicons.dev/icons?i=docker" alt="Docker" title="Docker"/></a>
-</p>
-
----
 
 ## 📊 GitHub Analytics
 
