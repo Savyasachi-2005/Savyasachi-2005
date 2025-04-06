@@ -20,29 +20,47 @@
 <div align="center">
 
 ### Languages  
-<img src="https://img.shields.io/badge/Java-%23ED8B00.svg?style=flat-square&logo=java&logoColor=white" alt="Java" /> 
-<img src="https://img.shields.io/badge/C++-%2300599C.svg?style=flat-square&logo=c%2B%2B&logoColor=white" alt="C++" /> 
-<img src="https://img.shields.io/badge/C-%2300599C.svg?style=flat-square&logo=c&logoColor=white" alt="C" />
-<img src="https://img.shields.io/badge/Python-%2314354C.svg?style=flat-square&logo=python&logoColor=white" alt="Python" />
+<a href="https://docs.oracle.com/javase/tutorial/" target="_blank">
+  <img src="https://img.shields.io/badge/Java-%23ED8B00.svg?style=flat-square&logo=java&logoColor=white" alt="Java" />
+</a>
+<a href="https://cplusplus.com/doc/tutorial/" target="_blank">
+  <img src="https://img.shields.io/badge/C++-%2300599C.svg?style=flat-square&logo=c%2B%2B&logoColor=white" alt="C++" />
+</a>
+<a href="https://en.cppreference.com/w/c" target="_blank">
+  <img src="https://img.shields.io/badge/C-%2300599C.svg?style=flat-square&logo=c&logoColor=white" alt="C" />
+</a>
+<a href="https://docs.python.org/3/" target="_blank">
+  <img src="https://img.shields.io/badge/Python-%2314354C.svg?style=flat-square&logo=python&logoColor=white" alt="Python" />
+</a>
 
->  Java is my core for DSA mastery.
-
----
-
-###  Web Development  
-<img src="https://img.shields.io/badge/HTML5-%23E34F26.svg?style=flat-square&logo=html5&logoColor=white" alt="HTML5" />
-<img src="https://img.shields.io/badge/CSS3-%231572B6.svg?style=flat-square&logo=css3&logoColor=white" alt="CSS3" /> 
-<img src="https://img.shields.io/badge/JavaScript-%23F7DF1E.svg?style=flat-square&logo=javascript&logoColor=black" alt="JavaScript" />
-
----
-
-###  Backend & Frameworks  
-<img src="https://img.shields.io/badge/Flask-%23000000.svg?style=flat-square&logo=flask&logoColor=white" alt="Flask" />
+> 🧠 Java is my core for DSA mastery.
 
 ---
 
-###  Database  
-<img src="https://img.shields.io/badge/PostgreSQL-%23336791.svg?style=flat-square&logo=postgresql&logoColor=white" alt="PostgreSQL" />
+### Web Development  
+<a href="https://developer.mozilla.org/en-US/docs/Web/HTML" target="_blank">
+  <img src="https://img.shields.io/badge/HTML5-%23E34F26.svg?style=flat-square&logo=html5&logoColor=white" alt="HTML5" />
+</a>
+<a href="https://developer.mozilla.org/en-US/docs/Web/CSS" target="_blank">
+  <img src="https://img.shields.io/badge/CSS3-%231572B6.svg?style=flat-square&logo=css3&logoColor=white" alt="CSS3" />
+</a>
+<a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank">
+  <img src="https://img.shields.io/badge/JavaScript-%23F7DF1E.svg?style=flat-square&logo=javascript&logoColor=black" alt="JavaScript" />
+</a>
+
+---
+
+### Backend & Frameworks  
+<a href="https://flask.palletsprojects.com/" target="_blank">
+  <img src="https://img.shields.io/badge/Flask-%23000000.svg?style=flat-square&logo=flask&logoColor=white" alt="Flask" />
+</a>
+
+---
+
+### Database  
+<a href="https://www.postgresql.org/docs/" target="_blank">
+  <img src="https://img.shields.io/badge/PostgreSQL-%23336791.svg?style=flat-square&logo=postgresql&logoColor=white" alt="PostgreSQL" />
+</a>
 
 </div>
 
