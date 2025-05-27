@@ -1,7 +1,7 @@
 <h1 align="center">Hey, I'm Abhishek Hiremath - Your Friendly Neighborhood Learner! 🚀</h1>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=F7F7F7&center=true&vCenter=true&width=600&lines=AI+%26+ML+Enthusiast;Full-Stack+Developer;Tech+Explorer;Lifelong+Learner;Passionate+Problem+Solver;Always+Building+Something+New!" alt="Typing SVG"/>
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=F7F7F7&center=true&vCenter=true&width=600&lines=AI+%26+ML+Enthusiast;Backend+Developer;Tech+Explorer;Lifelong+Learner;Passionate+Problem+Solver;Always+Building+Something+New!" alt="Typing SVG"/>
 </p>
 
 ## 🚀 About Me
