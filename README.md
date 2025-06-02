@@ -54,6 +54,10 @@
 <a href="https://flask.palletsprojects.com/" target="_blank">
   <img src="https://img.shields.io/badge/Flask-%23000000.svg?style=flat-square&logo=flask&logoColor=white" alt="Flask" />
 </a>
+<a href="https://fastapi.tiangolo.com/" target="_blank">
+  <img src="https://img.shields.io/badge/FastAPI-005571?style=flat-square&logo=fastapi&logoColor=white" alt="FastAPI" />
+</a>
+
 
 ---
 
