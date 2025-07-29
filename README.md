@@ -67,7 +67,14 @@
 </a>
 
 </div>
+---
+### 🐍 Contribution Snake
 
+<p align="center">
+  <img src="https://github.com/Savyasachi-2005/Savyasachi-2005/blob/output/snake.svg" alt="Snake animation" />
+</p>
+
+---
 
 
 ## 📊 GitHub Analytics
