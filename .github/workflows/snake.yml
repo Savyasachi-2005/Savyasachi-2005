@@ -15,7 +15,7 @@ jobs:
           outputs: |
             ./output/snake.svg
 
-      - uses: actions/upload-artifact@v3
+      - uses: actions/upload-artifact@latest
         with:
           name: snake
           path: ./output/snake.svg
