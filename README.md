@@ -153,6 +153,10 @@
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Savyasachi-2005&theme=tokyonight" alt="GitHub Profile Summary" width="100%" />
 </div>
 
+<div align="center">
+  <img src="https://raw.githubusercontent.com/Savyasachi-2005/Savyasachi-2005/output/snake.svg" alt="Snake animation" width="100%" />
+</div>
+
 ## 🌱 Current Learning Journey
 
 <table align="center">
