@@ -125,22 +125,7 @@
   </tr>
 </table>
 
-<div align="center">
-  <h3>📚 Currently Learning</h3>
-</div>
 
-<table align="center">
-  <tr>
-    <td align="center" width="96">
-      <img src="https://techstack-generator.vercel.app/docker-icon.svg" alt="Docker" width="65" height="65" />
-      <br>Docker
-    </td>
-    <td align="center" width="96">
-      <img src="https://techstack-generator.vercel.app/graphql-icon.svg" alt="TensorFlow" width="65" height="65" />
-      <br>TensorFlow
-    </td>
-  </tr>
-</table>
 
 <!-- Contribution Snake -->
 <p align="center">
