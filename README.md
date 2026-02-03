@@ -19,13 +19,13 @@
 
 <img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Savyasachi-2005&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&layout=compact&langs_count=6" width="350px" alt="Top Languages"/>
 
-- 🎓 **Education**: CSE (AIML) at Siddaganga Institute of Technology
-- 🌍 **Origin**: Mudhol, Bagalkote, Karnataka, India
-- 👨‍💻 **Passion**: AI, ML, and Backend Development
-- 📚 **Hobbies**: Reading books (once I start, I can't stop 📖) & watching movies 🎬
-- 🌱 **Learning**: Full-Stack Web Development & Deep Learning
-- 💡 **Exploring**: New technologies & innovative solutions
-- 🎯 **Motto**: "Code, learn, break things, fix them, repeat."
+- **Education:** Computer Science Engineering (AI & ML), Siddaganga Institute of Technology  
+- **Location:** Mudhol, Bagalkote, Karnataka, India  
+- **Interests:** Backend development, artificial intelligence, and machine learning  
+- **Currently Learning:** Full-stack web development and deep learning  
+- **Exploring:** New technologies and practical system design  
+- **Hobbies:** Reading and films  
+- **Approach:** Code, learn, break things, fix them, repeat
 
 ## 💻 Tech Stack
 
