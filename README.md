@@ -176,16 +176,16 @@
 ## 🚀 Featured Projects
 
 <div align="center">
-  <a href="https://github.com/Savyasachi-2005/StudentBuddy">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Savyasachi-2005&repo=StudentBuddy&theme=tokyonight&hide_border=true" width="49%" />
+  <a href="https://github.com/Savyasachi-2005/Student-Study-Organiser">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Savyasachi-2005&repo=Student-Study-Organiser&theme=tokyonight&hide_border=true" width="49%" />
   </a>
-  <a href="https://github.com/Savyasachi-2005/Algovertex">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Savyasachi-2005&repo=Algovertex&theme=tokyonight&hide_border=true" width="49%" />
+  <a href="https://github.com/Savyasachi-2005/Modular_RAG">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Savyasachi-2005&repo=Modular_RAG&theme=tokyonight&hide_border=true" width="49%" />
   </a>
 </div>
 <div align="center">
-  <a href="https://github.com/Savyasachi-2005/Leetcode">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Savyasachi-2005&repo=Leetcode&theme=tokyonight&hide_border=true" width="49%" />
+  <a href="https://github.com/Savyasachi-2005/Arthos">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Savyasachi-2005&repo=Arthos&theme=tokyonight&hide_border=true" width="49%" />
   </a>
 </div>
 
