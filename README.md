@@ -9,7 +9,7 @@
 ### `about_me()`
 
 ```cpp
-// CSE (AI & ML) @ Siddaganga Institute of Technology
+// CSE (AI & ML) @ Siddaganga Institute of Technology(2027)
 // 3rd year? 4th? idk anymore, just grinding
 
 Focus:
