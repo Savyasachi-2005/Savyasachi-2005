@@ -11,7 +11,6 @@
 ```cpp
 // CSE (AI & ML) @ Siddaganga Institute of Technology (2027)
 // 4th year now. Somehow survived this long. Still grinding.
-```
 
 Focus:
   -> Backend systems
@@ -41,10 +40,8 @@ Database/Tools  : PostgreSQL | Git | Linux
 ```
 > Student Study Organizer
   - Manage and track learning resources
-
 > Modular RAG
   - Retrieval-Augmented Generation pipeline
-
 > Arthos
   - Backend-driven finance application
 ```
