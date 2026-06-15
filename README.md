@@ -38,9 +38,12 @@ Database/Tools  : PostgreSQL | Git | Linux
 ### `projects()`
 
 ```
-> Sparsha - AI-powered animal emergency rescue & adoption platform - Samsung Solve for Tomorrow Top 100 (12,000+ teams)
-> QueryWise - Intelligent document chat system - Advanced RAG with hybrid retrieval, reranking & Text-to-SQL
-> Zorvyn - Full-stack financial dashboard with RBAC - FastAPI, PostgreSQL, React & TypeScript
+> Sparsha
+  - AI-powered animal emergency rescue & adoption platform - Samsung Solve for Tomorrow Top 100 (12,000+ teams)
+> QueryWise
+  - Intelligent document chat system - Advanced RAG with hybrid retrieval, reranking & Text-to-SQL
+> Zorvyn
+  - Full-stack financial dashboard with RBAC - FastAPI, PostgreSQL, React & TypeScript
 ```
 
 More → [abhishekhiremath.tech](https://abhishekhiremath.tech)
