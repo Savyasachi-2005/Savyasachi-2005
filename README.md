@@ -53,7 +53,7 @@ More → [abhishekhiremath.tech](https://abhishekhiremath.tech)
 ### `connect()`
 
 ```
-LinkedIn = https://linkedin.com/in/abhishek-hiremath-3020692a3
+LinkedIn = https://www.linkedin.com/in/abhishekhiremath4
 Email    = abhishekhiremath0424@gmail.com
 ```
 
