@@ -1,18 +1,12 @@
 <div align="center">
-<pre align="center">
- _   _ ___   _____ _   _ _____ ____  _____ 
-| | | |_ _| |_   _| | | | ____|  _ \| ____|
-| |_| || |    | | | |_| |  _| | |_) |  _|  
-|  _  || |    | | |  _  | |___|  _ <| |___ 
-|_| |_|___|   |_| |_| |_|_____|_| \_\_____|
-</pre>
- 
+<img src="https://user-images.githubusercontent.com/74038190/240304586-d48893bd-0757-481c-8d7e-ba3e163feae7.png" width="100%">
 </div>
 
 <div align="center">
   <h1><code>Abhishek Hiremath</code></h1>
+  <img src="https://user-images.githubusercontent.com/74038190/241763891-7bb1e704-6026-48f9-8435-2f4d40101348.gif" width="150">
   <p><i>AI/ML • Backend • Engineering Student</i></p>
-  <p><a href="https://abhih.tech"><b>Portfolio</b></a></p>
+  <p><a href="https://abhishekhiremath.tech"><b>Portfolio</b></a></p>
 </div>
 
 ---
