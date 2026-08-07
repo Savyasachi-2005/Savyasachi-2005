@@ -28,10 +28,13 @@ Approach:
 
 ### `tech_stack()`
 ```
-Languages       : Python | Java | C++ | JavaScript
-Backend         : FastAPI | Flask (learning Django next maybe)
-AI/ML           : TensorFlow | PyTorch
-Database/Tools  : PostgreSQL | Git | Linux
+Languages : Python | Java | JavaScript
+Backend : FastAPI | Flask | REST APIs
+Frontend : React
+Databases : PostgreSQL | Supabase | Redis
+AI : RAG | LLM Integrations | AI APIs
+Tools : Git | Linux | Vercel | Render
+Currently : DSA | System Design | Backend Engineering
 ```
 
 ---
